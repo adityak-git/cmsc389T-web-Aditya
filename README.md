@@ -18,4 +18,9 @@ Rose quartz: #B2A3B5
 
 
 # CUSTOM CHANGES
-## -> Changed color scheme for paneks, header, footer, to lime-green, #90ee90
+### -> Changed color scheme for paneks, header, footer, to lime-green, #90ee90
+
+
+# Web Links
+
+Github Pages: https://adityak-git.github.io/cmsc389T-web-Aditya/
