@@ -11,5 +11,11 @@ Taupe Gray: #91818A
 
 Rose quartz: #B2A3B5
 
+#90ee90 - for panels
+
 ## CSS
 .img -> where you can adjust image size
+
+
+#CUSTOM CHANGES
+-> Changed color scheme for paneks, header, footer, to lime-green, #90ee90
