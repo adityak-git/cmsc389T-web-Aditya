@@ -17,5 +17,5 @@ Rose quartz: #B2A3B5
 .img -> where you can adjust image size
 
 
-#CUSTOM CHANGES
--> Changed color scheme for paneks, header, footer, to lime-green, #90ee90
+# CUSTOM CHANGES
+## -> Changed color scheme for paneks, header, footer, to lime-green, #90ee90
