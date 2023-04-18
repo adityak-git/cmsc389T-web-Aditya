@@ -24,4 +24,6 @@ Rose quartz: #B2A3B5
 # Web Links
 
 Github Pages: https://adityak-git.github.io/cmsc389T-web-Aditya/
-Terpconnect: https://terpconnect.umd.edu/~akrishn4/cmsc389T-web-Aditya/
+
+
+TerpConnect: https://terpconnect.umd.edu/~akrishn4/cmsc389T-web-Aditya/
